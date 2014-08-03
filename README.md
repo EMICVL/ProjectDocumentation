@@ -7,8 +7,8 @@ PDF files or link to [EMICVL ofiicial site](http://sites.google.com/a/my.westmin
 
 For more specific IT related documents, see this repository WIKI.
 
-== Standards References ==
-=== Languages ===
+##Standards References##
+##Languages##
 * [HTML5](http://www.w3.org/TR/html5) [Introduction](http://www.w3schools.com/html/html5_intro.asp)
 * [CSS](http://www.w3.org/Style/CSS) [Tutorial](http://www.w3schools.com/css)
 * JavaScript: [ECMAScript](http://www.ecmascript.org) [Tutorial](http://www.w3schools.com/js)
