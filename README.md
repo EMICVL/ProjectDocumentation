@@ -23,4 +23,4 @@ For more specific IT related documents, see this repository WIKI.
 * [3D Modeller](http://www.3dtin.com)
 
 ###Online Books
-* [Git -Book](http://git-scm.com/book)
+* [Git -Book](http://git-scm.com/book): Learn versioning control of digital assets
