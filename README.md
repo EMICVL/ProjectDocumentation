@@ -24,3 +24,7 @@ For more specific IT related documents, see this repository WIKI.
 
 ###Online Books
 * [Git -Book](http://git-scm.com/book): Learn versioning control of digital assets
+
+###3D Virtual Worlds
+* [OpenSim](http://opensimulator.org): A shared metaverse were to build collaboratively virtual laboratories
+* [Unity3D](http://unity3d.com): A game engine to develop commercial virtual laboratories
