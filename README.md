@@ -16,7 +16,7 @@ For more specific IT related documents, see this repository WIKI.
 * [C sharp](http://www.ecma-international.org/publications/standards/Ecma-334.htm) [Tutorial](http://msdn.microsoft.com/en-us/library/aa288436(v=vs.71).aspx)
 
 ###File formats 
-* [COLLADA](https://collada.org) : the open file format for 3D object
+* [COLLADA](http://www.khronos.org/collada/) : the open file format for 3D object
 
 ###Online tools 
 * [2D Diagram Editor](http://draw.io)
