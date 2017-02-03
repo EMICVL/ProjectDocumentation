@@ -28,3 +28,7 @@ For more specific IT related documents, see this repository WIKI.
 ###3D Virtual Worlds
 * [OpenSim](http://opensimulator.org): A shared metaverse were to build collaboratively virtual laboratories
 * [Unity3D](http://unity3d.com): A game engine to develop commercial virtual laboratories
+
+# 2017 
+* [Design Check List](CheckList.md)
+* [Extensions](Extensions.md) and metric of virtual rooms
