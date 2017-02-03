@@ -31,4 +31,4 @@ For more specific IT related documents, see this repository WIKI.
 
 # 2017 
 * [Design Check List](CheckList.md)
-* [Extensions](Extensions.md) and metric of virtual rooms
+* [Extensions](Extensions.md) and metric of virtual rooms and avatars
