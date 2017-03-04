@@ -25,6 +25,8 @@ For more specific IT related documents, see this repository WIKI.
 ###File formats 
 * [COLLADA](http://www.khronos.org/collada/) : the open file format for 3D object
 * [MP4](http://en.wikipedia.org/wiki/MPEG-4_Part_14) : for video podcast and 3D demo videos
+* XML : for user interaction flow charts made with the [2D Diagram Editor](http://draw.io)
+* [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics) : for the user interaction flow charts preview
 
 ###Online tools 
 * [2D Diagram Editor](http://draw.io)
