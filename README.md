@@ -1,7 +1,14 @@
-Main Documents Repository
-=====================================
+# Main Documents Repository
 
-Rederence standards and design documents 
+## IMPORTANT NOTICE
+
+All documentation files shall be written using the MarkDown format.
+
+See: http://help.github.com/articles/working-with-advanced-formatting/
+
+Office format files are not allowed in the repositories, but eventually they have to be converted to PDF.
+
+## Rederence standards and design documents 
 
 PDF files or link to [EMICVL official site](http://sites.google.com/a/my.westminster.ac.uk/emicvl) documents.
 
