@@ -30,6 +30,9 @@ For more specific IT related documents, see this repository WIKI.
 
 ###Online tools 
 * [2D Diagram Editor](http://draw.io)
+
+Please, to save the diagram go to File/Save to local device and upload the resulting XML file to your Team Github repository. Also you can export the PNG graphic version to have it printed or visualized
+
 * [3D Modeller](http://www.3dtin.com)
 
 ###Online Books
