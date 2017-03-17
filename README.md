@@ -14,31 +14,31 @@ PDF files or link to [EMICVL official site](http://sites.google.com/a/my.westmin
 
 For more specific IT related documents, see this repository WIKI.
 
-##Standards References
-###Languages 
+## Standards References
+### Languages 
 * [HTML5](http://www.w3.org/TR/html5) [Introduction](http://www.w3schools.com/html/html5_intro.asp)
 * [CSS](http://www.w3.org/Style/CSS) [Tutorial](http://www.w3schools.com/css)
 * JavaScript: [ECMAScript](http://www.ecmascript.org) [Tutorial](http://www.w3schools.com/js)
 * [WebGL](https://www.khronos.org/webgl) [Getting started](https://developer.mozilla.org/en-US/docs/Web/WebGL/Getting_started_with_WebGL)
 * [C sharp](http://www.ecma-international.org/publications/standards/Ecma-334.htm) [Tutorial](http://msdn.microsoft.com/en-us/library/aa288436(v=vs.71).aspx)
 
-###File formats 
+### File formats 
 * [COLLADA](http://www.khronos.org/collada/) : the open file format for 3D object
 * [MP4](http://en.wikipedia.org/wiki/MPEG-4_Part_14) : for video podcast and 3D demo videos
 * XML : for user interaction flow charts made with the [2D Diagram Editor](http://draw.io)
 * [PNG](http://en.wikipedia.org/wiki/Portable_Network_Graphics) : for the user interaction flow charts preview
 
-###Online tools 
+### Online tools 
 * [2D Diagram Editor](http://draw.io)
 
 Please, to save the diagram go to File/Save to local device and upload the resulting XML file to your Team Github repository. Also you can export the PNG graphic version to have it printed or visualized
 
 * [3D Modeller](http://www.3dtin.com)
 
-###Online Books
+### Online Books
 * [Git -Book](http://git-scm.com/book): Learn versioning control of digital assets
 
-###3D Virtual Worlds
+### 3D Virtual Worlds
 * [OpenSim](http://opensimulator.org): A shared metaverse were to build collaboratively virtual laboratories
 * [Unity3D](http://unity3d.com): A game engine to develop commercial virtual laboratories
 
