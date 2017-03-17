@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTICE
 
-All documentation files shall be written using the MarkDown format.
+All documentation files shall be written using the [MarkDown](http://guides.github.com/features/mastering-markdown/) format.
 
 See: http://help.github.com/articles/working-with-advanced-formatting/
 
