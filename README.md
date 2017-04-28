@@ -61,12 +61,12 @@ Please, to save the diagram go to File/Save to local device and upload the resul
       * a list and reference to all used 3D objects
       * a student interaction flow chart with error recovering paths in PNG format, linked to its XML source
       * embedded videos showing each major student interaction in virtual reality made out of a Unity game screencast
-      * a reference to the Unity assets folder of the working prototype
+      * a reference to the Unity assets in the Unity store
       * a reference to the compiled and downloadable Windows Unity game (.exe)
       * (optional) a reference to the compiled and downloadable Android Unity app (.apk)
       
-   * a folder with all used 3D objects in COLLADA format
-   * a folder with XML and PNG user interaction flow chart
-   * a folder with demo videos
-   * a folder with the complete Unity assets project of the virtual laboratory prototype
+   * a folder with all used 3D objects in COLLADA format, only those developed originally by the local team.
+   * a folder with XML and PNG user interaction flow chart, made with [draw.io](http://draw.io) online editor
+   * a folder with demo videos, links to other storage/cloud services or youtube videos.
+   * a link to the Unity Store Repository made by the team
    * a folder with the compiled games in Windows .exe and Android .apk formats
