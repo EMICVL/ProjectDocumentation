@@ -70,3 +70,6 @@ Please, to save the diagram go to File/Save to local device and upload the resul
    * a folder with demo videos, links to other storage/cloud services or youtube videos.
    * a link to the Unity Store Repository made by the team
    * a folder with the compiled games in Windows .exe and Android .apk formats
+
+
+Please follow [instructions to publish](http://unity3d.com/asset-store/sell-assets) to the Unity Store for free.
