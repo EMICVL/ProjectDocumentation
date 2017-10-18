@@ -1,5 +1,7 @@
 # Technical requirements for assembling of the partners’ levels to the joint EMICVL IT project
 
+All partners shall comply with this technical requirements approved by the EU partners, starting October 18, 2017.
+
 1. The final project assembling will be made in __Unity 2017.1.1f1__
 
 2. Only those projects made in __Unity 2017.1.1f1__ will be accepted.
