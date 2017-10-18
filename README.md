@@ -17,6 +17,10 @@ PDF files or link to [EMICVL official site](http://sites.google.com/a/my.westmin
 For more specific IT related documents, see this repository WIKI.
 
 ## Standards References
+### Final integration requirements
+
+Since October 18 are valid the [integration requirements](Integration_requirements.md) stored in this repository. 
+
 ### Languages 
 * [HTML5](http://www.w3.org/TR/html5) [Introduction](http://www.w3schools.com/html/html5_intro.asp)
 * [CSS](http://www.w3.org/Style/CSS) [Tutorial](http://www.w3schools.com/css)
