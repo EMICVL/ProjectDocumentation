@@ -19,7 +19,7 @@ For more specific IT related documents, see this repository WIKI.
 ## Standards References
 ### Final integration requirements
 
-Since October 18 are valid the [integration requirements](Integration_requirements.md) stored in this repository. 
+Since October 18 2017 the [integration requirements](Integration_requirements.md) stored in this repository are valid and approved by EU partners. 
 
 ### Languages 
 * [HTML5](http://www.w3.org/TR/html5) [Introduction](http://www.w3schools.com/html/html5_intro.asp)
