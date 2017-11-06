@@ -6,7 +6,9 @@ All partners shall comply with this technical requirements approved by the EU pa
 
 2. Only those projects made in __Unity 2017.1.1f1__ will be accepted.
 
-3. Partners should provide level project (not asset) in __*.zip__ archive to be assembled to joint IT project 
+3. Partners should provide level/package file (not asset) in __*.zip__ archive to be assembled to joint IT project 
+   
+   (see [Export Package](http://docs.unity3d.com/Manual/HOWTO-exportpackage.html) ) from Unity help pages.
 
 4. Archive should be named as the following: EMICVL_IT group name_development version 
     
