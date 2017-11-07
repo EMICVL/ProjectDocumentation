@@ -61,6 +61,6 @@ Example:
 
 12. The dead line to provide the final version of level projects to the experts is 5th November.
 
-13. The licences should accompany every level project and should be provided to the experts not later then 5th November
+13. The licences should accompany every level project and should be provided to the experts not later then 5th November. In order to be part of the packages as [Text Asset](http://docs.unity3d.com/Manual/class-TextAsset.html) , save it as a License.txt, then drag and drop inside the Assets/Scene folder in Unity and selected it while creating the export.
 
 14. Level projects, approved by experts should be sent to ONU team for final assembling not later then 9th November.
