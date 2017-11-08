@@ -25,15 +25,15 @@ All partners shall comply with this technical requirements approved by the EU pa
 
 6. Content of the level project should have the following structure (folders) to be used in the project:
 
-  - Animation (level animation files)
-  - Textures  (level texture files) 
-  - Materials (level material files)
-  - Models    (models used on the level)
-  - Prefabs   (prefabs used on the level) 
-  - Scenes    (the game levels including a license text file)
-  - Sounds    (sound files used on the level)
-  - Scripts   (scripts used on the level)
-  - Sprites   (sprites used on the level)
+  - __Animation__ (level animation files)
+  - __Textures__  (level texture files) 
+  - __Materials__ (level material files)
+  - __Models__    (models used on the level)
+  - __Prefabs__   (prefabs used on the level) 
+  - __Scenes__    (the game levels including a license text file)
+  - __Sounds__    (sound files used on the level)
+  - __Scripts__   (scripts used on the level)
+  - __Sprites__   (sprites used on the level)
 
     __! Additional assets should be added to the level project as a separate folder__
 
