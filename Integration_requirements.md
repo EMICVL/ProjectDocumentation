@@ -34,8 +34,7 @@ All partners shall comply with this technical requirements approved by the EU pa
   - __Sounds__    (sound files used on the level)
   - __Scripts__   (scripts used on the level)
   - __Sprites__   (sprites used on the level)
-
-    __! Additional assets should be added to the level project as a separate folder__
+  - __Additional assets__ (as a separate folder including all assets necessary to the scenario to work)
 
 Example:
 
@@ -51,7 +50,7 @@ Example:
                          |[Sprites]
                          |[Textures]
               
-7.  All extra content should be removed from the level project (textures, code, models, etc.)
+7.  All __extra content__ should be __removed__ from the level project (textures, code, models, etc.)
 
 8. If an avatar has some distinctive features different from the standard, this should be mentioned in in-line file. It is recommended to use standard avatar from the first-person point of view taken from the standard asset without any addons.
 
