@@ -30,6 +30,7 @@ All partners shall comply with this technical requirements approved by the EU pa
   - Materials (level material files)
   - Models    (models used on the level)
   - Prefabs   (prefabs used on the level) 
+  - Scenes    (the game levels including a license text file)
   - Sounds    (sound files used on the level)
   - Scripts   (scripts used on the level)
   - Sprites   (sprites used on the level)
@@ -44,6 +45,7 @@ Example:
                          |[Materials]
                          |[Models]
                          |[Prefabs]
+                         |[Scenes]
                          |[Scripts]
                          |[Sound]
                          |[Sprites]
