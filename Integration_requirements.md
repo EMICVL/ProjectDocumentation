@@ -65,3 +65,5 @@ Example:
 13. The licences should accompany every level project and should be provided to the experts not later then 5th November. In order to be part of the packages as [Text Asset](http://docs.unity3d.com/Manual/class-TextAsset.html) , save it as a License.txt, then drag and drop inside the Assets/Scene folder in Unity and selected it while creating the export.
 
 14. Level projects, approved by experts should be sent to ONU team for final assembling not later then 9th November.
+
+15. The exported package shall not have any dependency from external programs other than Unity 3D (Blender for example). To achieve this, please test import from a clean computer with just Unity 3D installed.
