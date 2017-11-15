@@ -67,3 +67,5 @@ Example:
 14. Level projects, approved by experts should be sent to ONU team for final assembling not later then 9th November.
 
 15. The exported package shall not have any dependency from external programs other than Unity 3D (Blender for example). To achieve this, please test import from a clean computer with just Unity 3D installed.
+
+16. Each team assets shoudl have a __UNIQUE__ identifier, in order to __AVOID NAME CONFLICTS__. Every asset should have  the team acronymous as asset name prefix, inclduign ojects, script, texture, etc.... Example: _ONU_table.fbx, AMU_table.dae, BSU_input.cs_ 
